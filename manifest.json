@@ -1,0 +1,13 @@
+{
+    "manifest_version": 2,
+    "name": "Coding Blocks",
+    "description": "Extension for latest updates from Coding Blocks",
+    "version": "1.0.0",
+    "icons": { "128": "icon.png"},
+    "browser_action": {
+        "default_icon": "icon.png",
+        "default_popup": "popup.html"
+    },
+    "permissions": ["activeTab"],
+    "content_security_policy": "script-src 'self' 'sha256-GS8JSFwGzHEP90dZIOf92JPjsYas7fDRkOroeE5ecXI='"
+}
