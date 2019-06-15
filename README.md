@@ -25,13 +25,13 @@ Any Code Editor
   app.js:
     Handles generic communication with the API and animate the loader.
     
-  popup.html
+  popup.html:
     Source for the popup window, contains the top-level logic which drives
     most of the user-facing functionality.
 
 ## Installation
 
- 1.Download the code, e.g. `https://github.com/iamspathan/CB-Chrome-Extension.git`
+  1. Download the code, e.g. `https://github.com/iamspathan/CB-Chrome-Extension.git`
   2. Navigate chrome to `chrome://extensions`
   3. Check the `Developer mode` toggle
   4. Click on `Load Unpacked Extension...`
