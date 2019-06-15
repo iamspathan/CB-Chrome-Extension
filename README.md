@@ -16,9 +16,9 @@ This is an official chrome extension of Coding Blocks. It is a free, open-source
 
 You will need the following things properly installed on your computer.
 
-[Git](https://git-scm.com/)
-[Google Chrome](https://google.com/chrome/)
-Any Code Editor
+* [Git](https://git-scm.com/)
+* [Google Chrome](https://google.com/chrome/)
+* Any Code Editor
 
 ## Files of special Interest
 
